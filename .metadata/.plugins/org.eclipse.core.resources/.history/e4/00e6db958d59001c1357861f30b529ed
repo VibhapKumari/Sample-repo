@@ -1,0 +1,14 @@
+package com.example.ProdManager.controller;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ProductControllerTest {
+
+	@Test
+	public void test_addProduct() {
+		fail("Not yet implemented");
+	}
+
+}
